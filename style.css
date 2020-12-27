@@ -3,24 +3,18 @@
   box-sizing: content-box;
 }
 
-
-.navbar {
-  border: black 2px solid;
-}
-
 .container-fluid {
   border: black 2px solid;
 }
 */
-
+/*
 Body {
-  width: 270px;
+}*/
+
+.navbar_button_right {
+  justify-content: right;
 }
 
-.menu_lines {
-  display: block;
-  width: 5px;
-  height: auto;
-  background-color: black;
-  box-shadow: 0 5px 0 black, 0 10px 0 black;
+.nav-left {
+  float: left;
 }
