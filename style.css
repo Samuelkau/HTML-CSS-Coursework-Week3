@@ -1,4 +1,7 @@
-.float-left {
-  display: flex;
-  justify-content: end;
+.floatleft {
+  float: left;
+}
+
+.nav_btn_pos {
+  position: relative;
 }
