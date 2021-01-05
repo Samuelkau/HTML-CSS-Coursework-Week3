@@ -1,9 +1,4 @@
 
-/*header section*/
-.nav_container {
-  height: 200px;
- 
-}
 
 img,
 embed,
@@ -12,12 +7,15 @@ video {
   max-width: 100%;
 }
 
-.img_container {
-    width: 200px;
-    height: 400px;
-}
-/*
 
+
+.logo_container {
+    width: 400px;
+    background-color: black;
+    border: rgb(228, 16, 16) solid 2px;
+}
+
+/*
 .box1 {
     background-color: black;
     border: black solid 2px;
