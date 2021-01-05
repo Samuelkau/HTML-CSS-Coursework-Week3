@@ -5,6 +5,17 @@
  
 }
 
+img,
+embed,
+object,
+video {
+  max-width: 100%;
+}
+
+.img_container {
+    width: 200px;
+    height: 400px;
+}
 /*
 
 .box1 {
@@ -44,10 +55,4 @@
 /*
 .header_busn_text {
   width: 70%;
-}
-img,
-embed,
-object,
-video {
-  max-width: 100%;
 }
