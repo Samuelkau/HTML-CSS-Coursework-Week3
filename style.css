@@ -1,5 +1,33 @@
 
 
+
+.header_container> div {
+    background-color: black;
+    border: black solid 2px;
+}
+
+h1 h2 {
+    color: white;
+    border: rgb(240, 237, 237) solid 2px;
+}
+.company_name {
+    width: 400px;
+    height: auto;
+    float: right;
+    color: black;
+   
+}
+
+.logo_container {
+    width: 200px;
+    height: 200px;
+}
+
+.button_alignment {
+    margin-right: 0;
+    margin-top: 0;
+}
+/*
 img,
 embed,
 object,
@@ -8,17 +36,8 @@ video {
 }
 
 
-
-.logo_container {
-    width: 20%;
-    background-color: black;
-    border: rgb(228, 16, 16) solid 2px;
 }
 
-/*
-.box1 {
-    background-color: black;
-    border: black solid 2px;
 }
 
 .box2 {
